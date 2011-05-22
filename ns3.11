@@ -6,9 +6,9 @@ ns3version: 11, dev
 ---
 name: mpls
 version: 2.0.4
-source: http://ns-3-shop.googlecode.com/files/netexplorer-1.1b.tar.gz
+source: http://ns-3-shop.googlecode.com/files/test.txt.zip
 description: descr2
-ns3version: 7-10
+ns3version: 7+
 ---
 name: test
 version: 2.0.4
