@@ -14,4 +14,4 @@ name: test
 version: 2.0.4
 source: test
 description: descr3
-ns3version: 7+
+ns3version: 7
