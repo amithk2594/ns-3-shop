@@ -1,17 +1,17 @@
 name: mpls
 version: 2.0.5
-source: test
+source: http://ns-3-shop.googlecode.com/files/netexplorer-1.1b.tar.gz
 description: descr1
 ns3version: 11, dev
 ---
 name: mpls
 version: 2.0.4
-source: test
+source: http://ns-3-shop.googlecode.com/files/netexplorer-1.1b.tar.gz
 description: descr2
 ns3version: 7-10
 ---
 name: test
 version: 2.0.4
-source: test
+source: http://ns-3-shop.googlecode.com/files/netexplorer-1.1b.tar.gz
 description: descr3
 ns3version: 7
