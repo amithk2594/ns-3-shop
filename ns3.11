@@ -1,17 +1,29 @@
 name: mpls
-version: 2.0.199
+version: 2.0.5
 source: test
 description: mpls module for ns-3
 ns3version: 11
 ---
 name: mpls
-version: 2.0.100
+version: 2.0.4
 source: test
 description: mpls module for ns-3
-ns3version: 10-12
+ns3version: [7, 8, 9]
 ---
 name: mpls
-version: 2.0.99
+version: 2.0.3
 source: test
 description: mpls module for ns-3
-ns-3-version: dev
+ns3version: 4-5
+---
+name: mpls
+version: 2.0.2
+source: test
+description: mpls module for ns-3
+ns3version: 11+
+---
+name: mpls
+version: 2.0.1
+source: test
+description: mpls module for ns-3
+ns3version: dev
