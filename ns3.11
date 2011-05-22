@@ -1,17 +1,17 @@
 name: mpls
 version: 2.0.5
-source: gzip,test
+source: test
 description: descr1
 ns3version: 11, dev
 ---
 name: mpls
 version: 2.0.4
-source: gzip,test
+source: test
 description: descr2
 ns3version: 7-10
 ---
 name: test
 version: 2.0.4
-source: gzip,test
+source: test
 description: descr3
 ns3version: 7
