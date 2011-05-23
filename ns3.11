@@ -2,10 +2,10 @@ name: mpls
 version: 2.0.4
 source: http://ns-3-shop.googlecode.com/files/test_package.tar.gz
 description: dev
-ns3version: 7+
+ns3version: dev
 ---
 name: test
 version: 2.0.4
 source: http://ns-3-shop.googlecode.com/files/netexplorer-1.1b.tar.gz
 description: descr3
-ns3version: 7
+ns3version: dev
